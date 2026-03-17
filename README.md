@@ -11,7 +11,7 @@ Classes are balanced:
   - max number of photos per class: 34
   - min number of photos per class: 33
   - mean number of photos per class: 33.3
-Dataset is clean - no broken images
+  - Dataset is clean - no broken images
 
 **Objective**
 
